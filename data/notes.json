@@ -1,0 +1,17 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "crack"
+    },
+    {
+      "id": 1,
+      "name": "stairstep_crack"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1",
+    "contributor": "Roboflow"
+  }
+}
